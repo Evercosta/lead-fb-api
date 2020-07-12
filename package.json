@@ -10,11 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.19.2",
     "body-parser": "^1.19.0",
     "debug": "^4.1.1",
     "express": "^4.17.1",
     "express-x-hub": "^1.0.4",
-    "firebase": "^7.16.0",
     "http": "0.0.1-security"
   },
   "devDependencies": {
